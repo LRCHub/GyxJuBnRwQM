@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "Green Flash",
+  "base_artist": "Kroi",
+  "createdAt": "2025-12-05T17:38:41.437420Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/01_Green_Flash_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "JKT48",
+      "has_synced": false,
+      "path": "select/02_Green_Flash_JKT48.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/03_Green_Flash_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/04_Green_Flash_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Green Flash Sunset",
+      "artist": "Noah Floersch",
+      "has_synced": true,
+      "path": "select/05_Green_Flash_Sunset_Noah_Floersch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/06_Green_Flash_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "orange pekoe",
+      "has_synced": false,
+      "path": "select/07_Green_Flash_orange_pekoe.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "Jobi Riccio",
+      "has_synced": true,
+      "path": "select/08_Green_Flash_Jobi_Riccio.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "AKB48",
+      "has_synced": true,
+      "path": "select/09_Green_Flash_AKB48.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Green Flash",
+      "artist": "MNL48",
+      "has_synced": true,
+      "path": "select/10_Green_Flash_MNL48.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Green Flash",
+      "artist": "Kroi",
+      "has_synced": false,
+      "path": "select/pl_01_Green_Flash_Kroi.txt"
+    }
+  ]
+}
